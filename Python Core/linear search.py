@@ -5,4 +5,4 @@ tar=20
 if tar in lst:
     print("Target element exists in the array.")
 else:
-    print("Target element does't exist in the array.")
+    print("Target element does't exists in the array.")
